@@ -1,0 +1,17 @@
+<!-- pages/templates/base.html -->
+<header>
+
+    <a href="{% url 'home' %}">Home</a> | <a href="{% url 'about' %}">About</a>
+  
+  </header>
+  
+  {% block content %}
+  {% endblock content %}
+
+  <footer>
+    <ul>
+        <li>Contact Us</li>
+        <li>Support Us</li>
+        <li>Instagram</li>
+    </ul>
+  </footer>

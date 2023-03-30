@@ -1,0 +1,4 @@
+The avg_city is: 16.858974358974358
+The avg_hwy is: 23.44017094017094
+The ford_hwy is: 19.36
+The suv_city is: 13.5
